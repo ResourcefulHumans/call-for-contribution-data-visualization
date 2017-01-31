@@ -1,0 +1,36 @@
+{
+  "name": "call-for-contribution-data-vizualization",
+  "appName": "Landingpage for our Data Vizualization Call for Contribution",
+  "version": "1.0.0",
+  "description": "We are looking for a contributor who brings our data vizualization to the next level",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-server": "static ./",
+    "commitmsg": "validate-commit-msg"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ResourcefulHumans/call-for-contribution-data-vizualization.com.git"
+  },
+  "keywords": [
+    "simple",
+    "social",
+    "realtime"
+  ],
+  "author": "Resourceful Humans <info@resourceful-humans.com>",
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/ResourcefulHumans/call-for-contribution-data-vizualization.com#readme",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-preset-env": "^1.1.8",
+    "babel-preset-es2015": "^6.22.0",
+    "bluebird": "^3.4.7",
+    "husky": "<2.0.0",
+    "node-static": "^0.7.8",
+    "validate-commit-msg": "^2.7.0"
+  },
+  "dependencies": {
+    "chance": "^1.0.4"
+  }
+}
