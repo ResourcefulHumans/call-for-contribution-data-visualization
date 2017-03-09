@@ -15,7 +15,16 @@ readFileAsync(process.argv[process.argv.length - 1], 'utf8')
           const hash = crypto.createHash('sha256')
           return {
             email: hash.update(user.email).digest('hex'),
-            name: chance.name()
+            name: chance.name(),
+            avatar: chance.avatar({protocol: 'https'}) + '?s=256&d=wavatar'
+          }
+        }),
+        customers: data.customers.map(customer => {
+          return {
+            id: customer.id,
+            label: `${chance.last()} ${chance.city()} Inc.`,
+            description: chance.paragraph({sentences: 1}),
+            avatar: chance.avatar({protocol: 'https'}) + '?s=256&d=retro'
           }
         }),
         contributions: data.contributions.map(contribution => Object.assign(contribution, {
@@ -27,8 +36,7 @@ readFileAsync(process.argv[process.argv.length - 1], 'utf8')
               user: hash.update(commitment.user).digest('hex')
             })
           })
-        }))
-          .filter(contribution => contribution.commitments.length)
+        })).filter(contribution => contribution.commitments.length)
       },
       null,
       '\t'
