@@ -66,37 +66,43 @@
 			"id": "1",
 			"label": "Graham Upilojde Inc.",
 			"description": "Ciganvi kalub jiza rolcajvav doble cab haf afo vipumi icu pamodoca revezsa si hi paoswu cejigu parbejeb utuadi.",
-			"avatar": "https://www.gravatar.com/avatar/7cf2f8fafc6c794e2e834e7b4054286a?s=256&d=retro"
+			"avatar": "https://www.gravatar.com/avatar/7cf2f8fafc6c794e2e834e7b4054286a?s=256&d=retro",
+			"priority": "bronze"
 		},
 		{
 			"id": "7",
 			"label": "Greene Nimelen Inc.",
 			"description": "Or fuze litir nan wazehuw witteruzu gocozo bop pa duncesef ticmuv ra labminno zacu do.",
-			"avatar": "https://www.gravatar.com/avatar/411f0c6c30b2fa87a1eadc51322f2448?s=256&d=retro"
+			"avatar": "https://www.gravatar.com/avatar/411f0c6c30b2fa87a1eadc51322f2448?s=256&d=retro",
+			"priority": "gold"
 		},
 		{
 			"id": "2",
 			"label": "Peterson Pagevkis Inc.",
 			"description": "Ki zokuhwoz wuusow eb gigeni mub fate vengi duuv votaczir to vezadvu va ceciefo tik bijense vukib inaire.",
-			"avatar": "https://www.gravatar.com/avatar/ee65e343e9efa304ffa06e4babe52a19?s=256&d=retro"
+			"avatar": "https://www.gravatar.com/avatar/ee65e343e9efa304ffa06e4babe52a19?s=256&d=retro",
+			"priority": "silver"
 		},
 		{
 			"id": "6",
 			"label": "Lucas Koaduge Inc.",
 			"description": "Sajceb un ta jughir sozcodge zurbogele ukiuzmi momze nirte zuju ta zuhag oku jakil duce tukja igusobe.",
-			"avatar": "https://www.gravatar.com/avatar/00907fd780f9c2eb7c6898113468b4b5?s=256&d=retro"
+			"avatar": "https://www.gravatar.com/avatar/00907fd780f9c2eb7c6898113468b4b5?s=256&d=retro",
+			"priority": "gold"
 		},
 		{
 			"id": "5",
 			"label": "Bell Vovnanhel Inc.",
 			"description": "Hec ceaf mu fac zevbes hekin bov faldivpun tizolhe ewiag kodkezef hemocamu lupoco urdetsel bim uzizihot.",
-			"avatar": "https://www.gravatar.com/avatar/996223ce5f92d12c00aea076a4615c2a?s=256&d=retro"
+			"avatar": "https://www.gravatar.com/avatar/996223ce5f92d12c00aea076a4615c2a?s=256&d=retro",
+			"priority": "bronze"
 		},
 		{
 			"id": "4",
 			"label": "Davidson Ewiboura Inc.",
 			"description": "Dewsel azdeb zofjah oded vad harma hurtisig fevawofic vermevwu ite eluuka wuc.",
-			"avatar": "https://www.gravatar.com/avatar/b90fdc82c7380617916ad8c0ada6d078?s=256&d=retro"
+			"avatar": "https://www.gravatar.com/avatar/b90fdc82c7380617916ad8c0ada6d078?s=256&d=retro",
+			"priority": "bronze"
 		}
 	],
 	"contributions": [
